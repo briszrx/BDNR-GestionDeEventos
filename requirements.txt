@@ -1,0 +1,5 @@
+cassandra-driver>=3.29.0,<4
+pymongo
+pydgraph
+faker
+ 
